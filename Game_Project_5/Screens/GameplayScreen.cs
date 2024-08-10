@@ -249,7 +249,7 @@ namespace Game_Project_5.Screens
         private double _enemyLaserTimer = 40000000;
 
         private int _transitioningToNextLevel = 0;
-        float[] ShootTimer = { RandomHelper.NextFloat(0.92f, 1.04f), RandomHelper.NextFloat(0.65f, 0.85f), RandomHelper.NextFloat(0.48f, 0.57f) };
+        float[] ShootTimer = { RandomHelper.NextFloat(0.65f, 0.85f), RandomHelper.NextFloat(0.48f, 0.57f), RandomHelper.NextFloat(0.30f, 0.38f) };
         private float _currentTimeLimit = 0;
 
         private float _timeUntilSpaceCounted;
