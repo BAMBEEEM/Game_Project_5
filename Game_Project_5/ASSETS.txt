@@ -1,0 +1,86 @@
+Used Assets Licenses and Credit:
+
+1-sound1.wav, sound2.wav, sound3.wav, sound4.wav (wind sounds)
+-Creator: Ebraheem Mustafa
+-Licensing: Creative Commons Zero v1.0 Universal (public domain)
+
+2-Laser.wav
+-Creator: Ebraheem Mustafa
+-Licensing: Creative Commons Zero v1.0 Universal (public domain)
+
+2-EnemyLaser.wav
+-Creator: Ebraheem Mustafa
+-Licensing: Creative Commons Zero v1.0 Universal (public domain)
+
+3-IntroSong.ogg
+-Creator: Ebraheem Mustafa
+-Licensing: Allowed for distribution/modification/sampling.
+-Transparancy: It consists of a loop provided by FLEX Plugin from FL Studio 20+
+
+7-ninja.png
+-Creator: Penusbmic
+-Modification: Elongated the laser projectile and slightly recolored it.
+-Licensing: Allowed for commercial use and modification.
+-Link:  https://penusbmic.itch.io/characterpack1
+
+8-1st.png (enemy)
+-Creator: Penusbmic
+-Modification: (Elongated the shooting animation projectile.) 
+-Licensing: Allowed for commercial use and modification.
+-Link:  https://penusbmic.itch.io/sci-fi-character-pack-11
+
+8-2nd.png (enemy)
+-Creator: Penusbmic
+-Modification: (Drawn and changed the Projectile of the animation)
+-Licensing: Allowed for commercial use and modification.
+-Link:  https://penusbmic.itch.io/sci-fi-character-pack-12
+
+9-ThaleahFat.ttf (font)
+-Creator: Rick Hoppmann
+-License: CC-BY 4.0 (free for commercial use, or any other purpose)
+-Link: https://tinyworlds.itch.io/free-pixel-font-thaleah
+
+10-cloud6_layer1.png, cloud6_layer2.png, 
+cloud6_layer3.png, cloud6_mainlayer.png (2nd map)
+-Creator: https://craftpix.net/
+-Modified By Ebraheem Mustafa (Splitted Layers and drawn edges to simulate cloud movement)
+-Licensing: Allowed for commercial and personal projects, allowed for modification.
+			See Term 2.0 in https://craftpix.net/file-licenses/ for more detail.
+-Link: https://craftpix.net/freebies/free-cursed-land-top-down-pixel-art-tileset/
+
+11-cloud6_ground.png
+-Creator: Ebraheem Mustafa
+-Licensing: Creative Commons Zero v1.0 Universal (public domain)
+
+12-cloud8_layer1.png, cloud8_layer2.png, cloud8_layer3.png,
+cloud8_layer4.png, cloud8_mainlayer.png (first map)
+-Creator: https://craftpix.net/
+-Modified By Ebraheem Mustafa (Splitted Layers and drawn edges to simulate cloud movement)
+-Licensing: Allowed for commercial and personal projects, allowed for modification.
+			See Term 2.0 in https://craftpix.net/file-licenses/ for more detail.
+-Link: https://craftpix.net/freebies/free-cursed-land-top-down-pixel-art-tileset/
+
+13-cloud8_ground.png
+-Creator: Ebraheem Mustafa
+-Licensing: Creative Commons Zero v1.0 Universal (public domain)
+
+14-lastbackground.png, extra_assets.png
+-Creator: Penusbmic
+-Licensing: Allowed for commercial use and modification.
+-Link:  https://penusbmic.itch.io/sci-fi-planetone
+
+14-spacebar.png
+-Creator: Ebraheem Mustafa
+-Licensing: Creative Commons Zero v1.0 Universal (public domain)
+
+15-whistle.wav
+-Creator: Kirk Patrick
+-Licensing: Attribution 4.0.
+-Link: https://freesound.org/people/kirkpatrick.live/sounds/495360/
+
+12- Button.png
+-Creator: https://craftpix.net/
+-Modification: Cleaned edges.
+-Licensing: Allowed for commercial and personal projects, allowed for modification.
+			See Term 2.0 in https://craftpix.net/file-licenses/ for more detail.
+-Link: https://craftpix.net/freebies/free-buttons-2d-game-objects/
