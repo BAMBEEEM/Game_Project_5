@@ -75,7 +75,6 @@ namespace Game_Project_5.Screens
 
         private GraphicsDeviceManager _graphics;
 
-        private BackgroundDetails _backgroundDetails;
 
         private int _level = 1;
 
@@ -151,9 +150,6 @@ namespace Game_Project_5.Screens
             _background3_MainLayer = _content.Load<Texture2D>("lastbackground");
             _background3_RedSun = _content.Load<Texture2D>("extra_assets");
 
-            _backgroundDetails = new BackgroundDetails();
-
-            _backgroundDetails.LoadContent(_content);
 
             _mainCharacter = new CharacterSprite();
 
@@ -214,8 +210,6 @@ namespace Game_Project_5.Screens
                         // timing mechanism that we have just finished a very long frame, and that
                         // it should not try to catch up.*/
             ScreenManager.Game.ResetElapsedTime();
-
-            _ingameSong = _content.Load<Song>("IngameSong");
 
 
 

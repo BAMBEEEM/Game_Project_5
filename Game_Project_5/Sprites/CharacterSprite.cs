@@ -157,12 +157,7 @@ namespace Game_Project_5.Sprites
             _charTexture = content.Load<Texture2D>("ninja");
 
 
-            _steps[0] = content.Load<SoundEffect>("step1");
-            _steps[1] = content.Load<SoundEffect>("step2");
-            _steps[2] = content.Load<SoundEffect>("step3");
 
-
-            _dashSound = content.Load<SoundEffect>("dashsound");
             _laserSound = content.Load<SoundEffect>("Laser");
         }
 

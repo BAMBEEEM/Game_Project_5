@@ -30,7 +30,6 @@ namespace Game_Project_5.Screens
         bool _isPlaying = false;
         InputAction _skip;
 
-        private MenuBackground __forestIntro;
         private LoadingText _loadingText;
 
 
@@ -47,7 +46,6 @@ namespace Game_Project_5.Screens
         private bool _isTransitioning = false;
         private float _timeSinceTransition;
 
-        private MenuWood _wood;
         private StartButton _startButton;
 /*        private ScoreButton _scoreButton;
 */        private bool _scoreClicked = false;
@@ -81,10 +79,8 @@ namespace Game_Project_5.Screens
                 _content = new ContentManager(ScreenManager.Game.Services, "Content");
             }
             _inputState = new InputState();
-            _wood = new MenuWood();
             _startButton = new StartButton();
-/*            _scoreButton = new ScoreButton();
-*/            __forestIntro = new MenuBackground();
+/*            _scoreButton = new ScoreButton();*/
             _loadingText = new LoadingText();
             _backgroundCube = new BackgroundCube(gamee);
             _font = _content.Load<SpriteFont>("retrosmall");
@@ -93,8 +89,6 @@ namespace Game_Project_5.Screens
 
 
 
-            _wood.LoadContent(_content);
-            __forestIntro.LoadContent(_content);
             _startButton.LoadContent(_content);
             /*            _scoreButton.LoadContent(_content);
             */
